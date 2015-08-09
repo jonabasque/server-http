@@ -1,0 +1,11 @@
+{
+  "name": "server-http",
+  "version": "0.0.0",
+  "description": "Ejemplo de trabajo con submodulos de Git y de server HTTP con Node.js y su módulo HTTP.",
+  "main": "simple-response.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "AGPL"
+}
