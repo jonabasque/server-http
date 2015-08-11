@@ -24,7 +24,7 @@ var http = require('http').createServer(server);
 function server(req, res){
 
 	res.writeHead(200, {"Content-type": "text/html"});
-	res.end("<h1>Respuesta del server Node.js en HTML</h1>");
+	res.end("<h1>Respuesta del server Node.js en HTML</h1><p>Actualizandose automaticamente con supervisor!!</p>");
 
 }
 http.listen(3000);
